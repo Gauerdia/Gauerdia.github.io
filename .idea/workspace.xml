@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8bb093-ecc4-4893-880c-a56474eb6cd1" name="Default Changelist" comment="hrteewfwefew">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="4f8bb093-ecc4-4893-880c-a56474eb6cd1" name="Default Changelist" comment="ewfwe" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +32,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../blankProject" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675635221803</updated>
-      <workItem from="1675635222862" duration="1424000" />
+      <workItem from="1675635222862" duration="1910000" />
     </task>
     <task id="LOCAL-00001" summary="regergeg">
       <created>1675635442348</created>
@@ -74,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675635844000</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ewfwe">
+      <created>1675636824464</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675636824464</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +96,8 @@
     <MESSAGE value="regergegrhrth" />
     <MESSAGE value="hrt" />
     <MESSAGE value="hrteewfwefew" />
-    <option name="LAST_COMMIT_MESSAGE" value="hrteewfwefew" />
+    <MESSAGE value="ewfwe" />
+    <option name="LAST_COMMIT_MESSAGE" value="ewfwe" />
   </component>
   <component name="WindowStateProjectService">
     <state x="955" y="335" key="FileChooserDialogImpl" timestamp="1675635575778">
@@ -101,9 +112,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="905" y="260" key="Github.UntrackedFilesDialog/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675635243411" />
-    <state x="673" y="302" key="Vcs.Push.Dialog.v2" timestamp="1675635847358">
+    <state x="673" y="302" key="Vcs.Push.Dialog.v2" timestamp="1675636826318">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="673" y="302" key="Vcs.Push.Dialog.v2/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675635847358" />
+    <state x="673" y="302" key="Vcs.Push.Dialog.v2/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675636826318" />
   </component>
 </project>
