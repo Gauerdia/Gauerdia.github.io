@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8bb093-ecc4-4893-880c-a56474eb6cd1" name="Default Changelist" comment="">
+    <list default="true" id="4f8bb093-ecc4-4893-880c-a56474eb6cd1" name="Default Changelist" comment="hrt">
+      <change afterPath="$PROJECT_DIR$/brush_bunny.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cute_fox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duo_sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fox_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbit_and_bear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screen_global_map_mirrored_curved_left.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot_adventure_curved.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot_battleships_curved.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot_rearrange_curved.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot_team_curved_mirrored.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,17 +31,20 @@
     </option>
   </component>
   <component name="ProjectId" id="2LL0nPrSp0hnMrhjEsRCi4fAb4N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blankProject" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,14 +54,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675635221803</updated>
-      <workItem from="1675635222862" duration="195000" />
+      <workItem from="1675635222862" duration="613000" />
     </task>
+    <task id="LOCAL-00001" summary="regergeg">
+      <created>1675635442348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675635442348</updated>
+    </task>
+    <task id="LOCAL-00002" summary="regergegrhrth">
+      <created>1675635616568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675635616568</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hrt">
+      <created>1675635720980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675635720980</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="regergeg" />
+    <MESSAGE value="regergegrhrth" />
+    <MESSAGE value="hrt" />
+    <option name="LAST_COMMIT_MESSAGE" value="hrt" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="955" y="335" key="FileChooserDialogImpl" timestamp="1675635575778">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="955" y="335" key="FileChooserDialogImpl/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675635575778" />
     <state x="1066" y="550" width="921" height="301" key="Github.ShareDialog" timestamp="1675635239769">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -57,5 +103,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="905" y="260" key="Github.UntrackedFilesDialog/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675635243411" />
+    <state x="673" y="302" key="Vcs.Push.Dialog.v2" timestamp="1675635723921">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="673" y="302" key="Vcs.Push.Dialog.v2/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675635723921" />
   </component>
 </project>
