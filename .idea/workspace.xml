@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8bb093-ecc4-4893-880c-a56474eb6cd1" name="Default Changelist" comment="ewfwe" />
+    <list default="true" id="4f8bb093-ecc4-4893-880c-a56474eb6cd1" name="Default Changelist" comment="ewfewfwe" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675635221803</updated>
-      <workItem from="1675635222862" duration="1910000" />
+      <workItem from="1675635222862" duration="2067000" />
     </task>
     <task id="LOCAL-00001" summary="regergeg">
       <created>1675635442348</created>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675636824464</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ewfewfwe">
+      <created>1675637254603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675637254603</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +104,8 @@
     <MESSAGE value="hrt" />
     <MESSAGE value="hrteewfwefew" />
     <MESSAGE value="ewfwe" />
-    <option name="LAST_COMMIT_MESSAGE" value="ewfwe" />
+    <MESSAGE value="ewfewfwe" />
+    <option name="LAST_COMMIT_MESSAGE" value="ewfewfwe" />
   </component>
   <component name="WindowStateProjectService">
     <state x="955" y="335" key="FileChooserDialogImpl" timestamp="1675635575778">
@@ -112,9 +120,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="905" y="260" key="Github.UntrackedFilesDialog/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675635243411" />
-    <state x="673" y="302" key="Vcs.Push.Dialog.v2" timestamp="1675636826318">
+    <state x="673" y="302" key="Vcs.Push.Dialog.v2" timestamp="1675637257962">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="673" y="302" key="Vcs.Push.Dialog.v2/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675636826318" />
+    <state x="673" y="302" key="Vcs.Push.Dialog.v2/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675637257962" />
   </component>
 </project>
