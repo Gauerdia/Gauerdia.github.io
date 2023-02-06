@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8bb093-ecc4-4893-880c-a56474eb6cd1" name="Default Changelist" comment="ewfewfwe" />
+    <list default="true" id="4f8bb093-ecc4-4893-880c-a56474eb6cd1" name="Default Changelist" comment="ewfewfwefewfewf" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675635221803</updated>
       <workItem from="1675635222862" duration="2067000" />
+      <workItem from="1675637617834" duration="346000" />
     </task>
     <task id="LOCAL-00001" summary="regergeg">
       <created>1675635442348</created>
@@ -91,11 +110,29 @@
       <option name="project" value="LOCAL" />
       <updated>1675637254603</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ewfewfwefewfewf">
+      <created>1675637857505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675637857505</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -105,7 +142,8 @@
     <MESSAGE value="hrteewfwefew" />
     <MESSAGE value="ewfwe" />
     <MESSAGE value="ewfewfwe" />
-    <option name="LAST_COMMIT_MESSAGE" value="ewfewfwe" />
+    <MESSAGE value="ewfewfwefewfewf" />
+    <option name="LAST_COMMIT_MESSAGE" value="ewfewfwefewfewf" />
   </component>
   <component name="WindowStateProjectService">
     <state x="955" y="335" key="FileChooserDialogImpl" timestamp="1675635575778">
@@ -120,9 +158,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="905" y="260" key="Github.UntrackedFilesDialog/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675635243411" />
-    <state x="673" y="302" key="Vcs.Push.Dialog.v2" timestamp="1675637257962">
+    <state x="673" y="302" key="Vcs.Push.Dialog.v2" timestamp="1675637861536">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="673" y="302" key="Vcs.Push.Dialog.v2/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675637257962" />
+    <state x="673" y="302" key="Vcs.Push.Dialog.v2/-1920.429.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1675637861536" />
   </component>
 </project>
