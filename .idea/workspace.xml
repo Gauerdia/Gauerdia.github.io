@@ -67,6 +67,7 @@
       <updated>1675635221803</updated>
       <workItem from="1675635222862" duration="2067000" />
       <workItem from="1675637617834" duration="346000" />
+      <workItem from="1675701512684" duration="767000" />
     </task>
     <task id="LOCAL-00001" summary="regergeg">
       <created>1675635442348</created>
@@ -117,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675637857505</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ewfewfwefewfewf">
+      <created>1675701596613</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675701596613</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +141,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
